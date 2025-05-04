@@ -2,5 +2,4 @@
 
 ![Perfboard assembly](photos/20250504_134917.jpg)
 
-![DMX Workshop info](photos/dmx_workshop.png 
-)
+![DMX Workshop info](photos/dmx_workshop.png)
